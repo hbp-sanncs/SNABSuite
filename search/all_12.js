@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['param_5fnames',['param_names',['../d6/d72/namespacegenerate__tex.html#a259253e08cc569e9b555e1c9f39fa4e9',1,'generate_tex']]],
+  ['parameter_5fsweep_2ehpp',['parameter_sweep.hpp',['../d9/d99/parameter__sweep_8hpp.html',1,'']]],
+  ['parametersweep',['ParameterSweep',['../db/d8e/class_s_n_a_b_1_1_parameter_sweep.html',1,'SNAB']]],
+  ['parametersweep',['ParameterSweep',['../db/d8e/class_s_n_a_b_1_1_parameter_sweep.html#a68664da6bb8ad8d73a1d38d394acdc3e',1,'SNAB::ParameterSweep']]],
+  ['parser',['parser',['../d8/dba/namespaceconvert__weights.html#ac99df10043110a266ea14946bc7d4454',1,'convert_weights.parser()'],['../d5/d9e/namespaceautoformat__json.html#a650da58c738a8ddae945289009ef2ccb',1,'autoformat_json.parser()'],['../d2/da3/namespace1dim__plot.html#a1b380fdadca7595ffa6f4d72bf378e00',1,'1dim_plot.parser()'],['../d6/d01/namespace2dim__plot.html#a356345c8e962df6ffaf3d025fdf42a4d',1,'2dim_plot.parser()'],['../de/dc5/namespacehistogram.html#a00bd84044503a35b483090541ec4bbb2',1,'histogram.parser()'],['../df/da3/namespaceplot__membrane__pot.html#afc0312b83a7447a3077c7b69b65bcea9',1,'plot_membrane_pot.parser()'],['../d8/d5c/namespacespike__plot.html#afdfe8d8ead1c3ef2ef69dbe80f77311a',1,'spike_plot.parser()']]],
+  ['plot_5f1d_5fcurve',['plot_1d_curve',['../d1/dbf/class_s_n_a_b_1_1_utilities.html#a9fe795fe5bbfd2623d3786186f5da043',1,'SNAB::Utilities']]],
+  ['plot_5fhistogram',['plot_histogram',['../d1/dbf/class_s_n_a_b_1_1_utilities.html#a968ae5364c235cc53186d6a1820a2335',1,'SNAB::Utilities']]],
+  ['plot_5fmeasure',['plot_measure',['../d2/da3/namespace1dim__plot.html#a4e7eb4a81a04d7a72b14646ab61bc6a3',1,'1dim_plot']]],
+  ['plot_5fmeasure2d',['plot_measure2d',['../d6/d01/namespace2dim__plot.html#a94caa6756f73dca18d9a2c94a3528e3f',1,'2dim_plot']]],
+  ['plot_5fmembrane',['plot_membrane',['../df/da3/namespaceplot__membrane__pot.html#ae5d87acd67f615806f3ea7d19bfcf868',1,'plot_membrane_pot']]],
+  ['plot_5fmembrane_5fpot',['plot_membrane_pot',['../df/da3/namespaceplot__membrane__pot.html',1,'']]],
+  ['plot_5fmembrane_5fpot_2epy',['plot_membrane_pot.py',['../d2/df3/plot__membrane__pot_8py.html',1,'']]],
+  ['plot_5fspikes',['plot_spikes',['../d1/dbf/class_s_n_a_b_1_1_utilities.html#ab312f11a126a95049abfd862e863caf1',1,'SNAB::Utilities']]],
+  ['plot_5fvoltages_5fspikes',['plot_voltages_spikes',['../d1/dbf/class_s_n_a_b_1_1_utilities.html#a7e3047ada2b21e0c4433ac7abc2ee950',1,'SNAB::Utilities']]],
+  ['positivelimitedweights',['PositiveLimitedWeights',['../da/dda/class_m_n_i_s_t_1_1_positive_limited_weights.html',1,'MNIST']]],
+  ['positiveweights',['PositiveWeights',['../d7/daa/class_m_n_i_s_t_1_1_positive_weights.html',1,'MNIST']]],
+  ['prettyfy',['prettyfy',['../d5/d9e/namespaceautoformat__json.html#a7ebb9e5a018ff6b7128435da4c734295',1,'autoformat_json']]],
+  ['print_5fimage',['print_image',['../db/de8/namespacemnist__helper.html#a35cef48383bd0a09db5ed62ab1c325dd',1,'mnist_helper']]],
+  ['progress_5fcallback',['progress_callback',['../d1/dbf/class_s_n_a_b_1_1_utilities.html#a9e62d17a505e3bad61aad61419e1a67b',1,'SNAB::Utilities']]]
+];
